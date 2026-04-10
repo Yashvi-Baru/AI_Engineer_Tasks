@@ -1,0 +1,33 @@
+# Core web framework
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+
+# HTTP client (async URL fetching)
+httpx==0.28.1
+
+# HTML parsing
+beautifulsoup4==4.13.3
+
+# PDF parsing
+pypdf==5.4.0
+
+# Sentence tokenization (chunking backbone)
+nltk==3.9.1
+
+# Embeddings (local, no API key required)
+sentence-transformers==3.4.1
+
+# Vector store (pre-built Windows wheels, no C++ build tools required)
+faiss-cpu==1.9.0
+
+# LLM
+openai==1.70.0
+
+# Async SQLite (analytics)
+aiosqlite==0.21.0
+
+# Data validation
+pydantic==2.11.1
+
+# Environment variable loading
+python-dotenv==1.1.0
