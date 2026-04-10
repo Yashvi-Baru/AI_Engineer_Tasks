@@ -45,4 +45,3 @@ print(script.script)
 
 ---
 
-*Prepared for the RapidSales.ai engineering assessment — April 2026.*
